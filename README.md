@@ -1,4 +1,4 @@
-# dorita980
+# Unofficial Roomba SDK (dorita980)
 [![npm version](https://badge.fury.io/js/dorita980.svg)](http://badge.fury.io/js/dorita980)
 
 Unofficial iRobot Roomba (i7/i7+, 980, 960, e5, 690, 675, etc) node.js library (SDK).
@@ -10,7 +10,7 @@ See [rest980](https://github.com/koalazak/rest980) if you need a HTTP REST API i
 
 # Advice
 
-If you enjoy dorita980 and it works nice for you, I recommend blocking the internet access to your robot to avoid the OTA firmware updates. New firmware changes can cause dorita980 to stop working. Blocking firmware updates can be performed using the parental control options on your router.
+If you enjoy this SDK and it works nice for you, I recommend blocking the internet access to your robot to avoid the OTA firmware updates. New firmware changes can cause dorita980 to stop working. Blocking firmware updates can be performed using the parental control options on your router.
 
 When a new firmware is published, you can come here to verify if dorita980 is still compatible. Once dorita980 is compatible you can temporarily enable internet access for your robot to get the firmware upgrade.
 

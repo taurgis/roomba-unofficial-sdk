@@ -1,7 +1,7 @@
 {
-  "name": "dorita980",
-  "version": "3.1.11",
-  "description": "Unofficial iRobot Roomba 980 and wifi other enabled series library sdk",
+  "name": "@taurgis/roomba-unofficial-sdk",
+  "version": "1.0.0",
+  "description": "Unofficial iRobot Roomba 980 and wifi other enabled series library sdk. This was forked from dorita980 specifically for the homebridge-irobot-v2 plugin.",
   "main": "./index.js",
   "directories": {
     "test": "test"
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/koalazak/dorita980.git"
+    "url": "git+https://github.com/taurgis/roomba-unofficial-sdk.git"
   },
   "devDependencies": {
     "chai": "^3.5.0",
@@ -58,12 +58,12 @@
     "cleaner",
     "IoT"
   ],
-  "author": "koalazak <zak.tux@gmail.com>",
+  "author": "Taurgis <thomas.theunen@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/koalazak/dorita980/issues"
+    "url": "https://github.com/taurgis/roomba-unofficial-sdk/issues"
   },
-  "homepage": "https://github.com/koalazak/dorita980#readme",
+  "homepage": "https://github.com/taurgis/roomba-unofficial-sdk#readme",
   "dependencies": {
     "mqtt": "^2.15.0",
     "request": "^2.74.0",

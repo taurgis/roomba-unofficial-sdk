@@ -1,6 +1,6 @@
 {
   "name": "@taurgis/roomba-unofficial-sdk",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "Unofficial iRobot Roomba 980 and wifi other enabled series library sdk. This was forked from dorita980 specifically for the homebridge-irobot-v2 plugin.",
   "main": "./index.js",
   "directories": {
